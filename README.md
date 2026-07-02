@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Monireh 😃:
 
-Junior data scientist interested in working with data and machine learning models.
+A data scientist interested in working with data and machine learning models.
 
 - 💙 **Interests**: 🤖 AI, 📐 Data Science, 🎹 Piano
 - 🇳🇱 Amsterdam, Netherlands
